@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    text-align: center;
+}
+.heading {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+.name0ftheobject{
+    color: snow;
+}
+.input {
+    width : 50%;
+}
+canvas {
+    box-shadow: 10px 10px 10px whitesmoke;
+    border-radius: 10px;
+    margin-top: 160px;
+}
